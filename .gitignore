@@ -1,0 +1,17 @@
+# folders
+/logs
+/code/atari/logs
+/code/atari/aws_logs
+/report/plots
+
+# pycharm
+.idea
+
+# python
+*.pyc
+*~
+# LaTeX
+*.log
+*.aux
+*.keymaker
+
